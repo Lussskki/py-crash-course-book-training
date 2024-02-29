@@ -27,6 +27,6 @@ As this repository is mainly for personal learning, I do not accept contribution
 
 ## Contact
 
-If you have any questions, suggestions, or just want to say hello, feel free to contact me. You can reach me through [email@example.com](mailto:lukaguledani123@gmail.com).
+If you have any questions, suggestions, or just want to say hello, feel free to contact me. You can reach me through [luka@example.com](mailto:lukaguledani123@gmail.com).
 
 Thank you for visiting my learning repository!
